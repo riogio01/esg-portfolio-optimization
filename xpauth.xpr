@@ -1,0 +1,14 @@
+license expiry="30-sep-2025" features="Hyper OptLib OptConsole OptJava \
+	Barrier Network Quadratic IVE Integer Threads=1024 \
+	ParaMIP=1024 ParaBar=1024 Global MINLP SLPLib XpressNL kalis" \
+	fico_xpress_release="9.7" hostid="any" platform="any" \
+	release="2025" static="uncounted" terminal-services sig="37ef \
+	09d4 2e61 695e 6f3c 35fc c29b 3109 83dc 6be6 c701 80c1 5d42 \
+	f460 c012 8d39 e8b0 5650 0a2d f7eb c1fa c70f 0667 8e0e e658 \
+	107d 65d0 6bea 106f 9bef 8cad 99a2"
+license expiry="30-sep-2025" features="Hyper InsLib" \
+	fico_xpress_release="9.7" hostid="any" platform="any" \
+	release="2025" static="uncounted" terminal-services sig="001f \
+	9e71 2af7 049c 2d3c 9822 779a 8c6a 7211 a6dd a713 0cbd e58b \
+	805f 02b5 87cd 3751 2aac 810b 7eaa 3b02 4cbb 9df9 af9a 996d \
+	b4eb bd40 149e 7bdd 7a49 72d9 f1df"
