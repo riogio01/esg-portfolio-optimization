@@ -1,0 +1,9 @@
+Stock,Return,Sector,ESG score
+Stock_1,0.2018,Technology,95
+Stock_2,0.0883,Consumer Goods,63
+Stock_3,0.2048,Finance,68
+Stock_4,0.0676,Energy,43
+Stock_5,0.1445,Healthcare,71
+Stock_6,0.0196,Real Estate,58
+Stock_7,0.0746,Industrials,16
+Stock_8,0.0616,Utilities,78
